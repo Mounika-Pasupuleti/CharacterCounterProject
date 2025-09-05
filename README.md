@@ -48,5 +48,3 @@ It allows users to analyze their text in real-time with useful features like:
    - Every typed character **flies & fades** for extra fun.  
 
 
-## 📂 Project Structure
-
